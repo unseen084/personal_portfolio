@@ -13,6 +13,9 @@ body {
 #blogtitle {
     font-size: 6rem;
 }
+#abouttitle {
+    font-size: 4rem;
+}
 
 @media (min-width: 992px) {
     #hometext {
